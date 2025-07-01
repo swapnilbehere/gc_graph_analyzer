@@ -1,0 +1,28 @@
+# Core dependencies
+streamlit
+numpy>=1.24.0
+scipy
+netCDF4
+
+# LangChain and LLM dependencies
+langchain>=0.1.0
+langchain-openai>=0.0.5
+langchain-community>=0.0.10
+langchain-huggingface>=0.0.6
+
+# Document processing
+PyMuPDF>=1.23.0
+sentence-transformers>=2.2.0
+
+# Vector database
+faiss-cpu
+
+# Configuration and utilities
+python-dotenv>=1.0.0
+pydantic>=2.0.0
+
+# Development and testing
+pytest>=7.4.0
+pytest-cov>=4.1.0
+black>=23.0.0
+flake8>=6.0.0

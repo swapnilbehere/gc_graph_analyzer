@@ -1,0 +1,16 @@
+Chromatogram Summary: 080314_05_10.cdf
+Total peaks detected: 34
+Max intensity: 211,193,773.00
+Estimated baseline: 1,027,786.00
+
+Top Peaks:
+- Peak at 2436.77s | Area: 1210680111.24 | Height: 211193773.0
+- Peak at 3033.83s | Area: 482729355.92 | Height: 69322999.0
+- Peak at 797.88s | Area: 259644956.6 | Height: 55898407.0
+- Peak at 3024.06s | Area: 183131381.5 | Height: 55485599.0
+- Peak at 2034.98s | Area: 180281317.96 | Height: 51841808.0
+- Peak at 1130.98s | Area: 111628607.47 | Height: 50432616.0
+- Peak at 800.84s | Area: 73732522.81 | Height: 46268848.0
+- Peak at 1853.59s | Area: 81726816.35 | Height: 36581769.0
+- Peak at 1666.94s | Area: 64176543.38 | Height: 26588925.0
+- Peak at 2039.8s | Area: 62377145.23 | Height: 26490506.0

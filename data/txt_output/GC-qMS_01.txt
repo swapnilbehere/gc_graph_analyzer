@@ -1,0 +1,16 @@
+Chromatogram Summary: GC-qMS_01.cdf
+Total peaks detected: 36
+Max intensity: 48,121,549.00
+Estimated baseline: 158,952.00
+
+Top Peaks:
+- Peak at 1652.08s | Area: 105339175.78 | Height: 42101402.0
+- Peak at 372.65s | Area: 61633790.46 | Height: 41960118.0
+- Peak at 1044.59s | Area: 137197622.48 | Height: 41553992.0
+- Peak at 1411.49s | Area: 66424077.64 | Height: 34673778.0
+- Peak at 1497.68s | Area: 120908667.32 | Height: 34053038.0
+- Peak at 1330.84s | Area: 145685570.54 | Height: 30234102.0
+- Peak at 376.8s | Area: 28032842.1 | Height: 28971153.0
+- Peak at 1056.65s | Area: 34570908.87 | Height: 27290416.0
+- Peak at 1654.25s | Area: 26234926.94 | Height: 24557022.0
+- Peak at 1242.47s | Area: 28336171.54 | Height: 23728987.0
