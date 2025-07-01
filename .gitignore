@@ -54,8 +54,7 @@ Thumbs.db
 # Project specific
 data/temp_uploads/*
 data/json_output/*
-*.cdf
-*.pdf
+
 *.log
 
 # Testing
