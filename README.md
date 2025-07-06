@@ -51,11 +51,20 @@ gc_graph_analyzer/
 
 ## Setup Instructions
 
+### Prerequisites
+
+1. Python must be installed.
+   If you do not have python find it here `[Python](https://www.python.org/downloads/)`
+
+2. Open-AI API KEY: You can find your key on the OPEN-AI Portal `[OPEN-AI KEY](https://platform.openai.com/api-keys)`
+
+3. CDF file with context about data. You can bring your own CDF file to be analyzed or pick one from the project data section.
+
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/swapnilbehere/chromatogram-analyzer.git
-cd chromatogram-analyzer
+git clone https://github.com/swapnilbehere/gc_graph_analyzer.git
+cd gc_graph_analyzer
 ```
 
 ### 2. Create and Activate a Virtual Environment
@@ -79,23 +88,10 @@ pip install -r requirements.txt
 
 Create a `.env` file in the project root:
 
-```env
-OPENAI_API_KEY=your-openai-api-key
+```bash
+# to create env file:
+echo OPENAI_API_KEY = your-openai-api key > .env
 ```
-
-Add any other configuration as needed (see `app/config.py`).
-
-### 5. Prepare Data Folders
-
-Ensure the following folders exist (create them if missing):
-
-- `data/cdf_files/`
-- `data/temp_uploads/`
-- `data/json_output/`
-- `data/txt_output/`
-- `data/knowledge_base/`
-
-Add your chromatogram `.cdf` files, reference `.txt` files, and knowledge base `.pdf` files to the appropriate folders.
 
 ---
 
@@ -109,19 +105,12 @@ streamlit run app/main.py
 
 ### 2. Using the App
 
+- You can bring your own `.cdf` file or choose one from data folder
+- To choose one from data folder follow: `Browse File -> gc_graph_analyzer -> data -> cdf_files`
+
 - Upload a `.cdf` chromatogram file
 - Enter metadata for the run
 - View detected peaks, diagnosis, and troubleshooting advice
-
----
-
-## Testing
-
-To run unit tests (if implemented):
-
-```bash
-pytest tests/
-```
 
 ---
 
