@@ -53,10 +53,10 @@ gc_graph_analyzer/
 
 ### Prerequisites
 
-1. Python must be installed.
-   If you do not have python find it here `[Python](https://www.python.org/downloads/)`
+1. Python must be installed.  
+   If you do not have Python, find it here: [Python](https://www.python.org/downloads/)
 
-2. Open-AI API KEY: You can find your key on the OPEN-AI Portal `[OPEN-AI KEY](https://platform.openai.com/api-keys)`
+2. Open-AI API KEY: You can find your key on the OPEN-AI Portal [OPEN-AI KEY](https://platform.openai.com/api-keys)
 
 3. CDF file with context about data. You can bring your own CDF file to be analyzed or pick one from the project data section.
 
