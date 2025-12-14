@@ -1,4 +1,4 @@
-# Chromatogram Analyzer
+# Chromatograph Analyzer
 
 A modular, scalable, and maintainable application for analyzing GC chromatogram files, detecting peaks, and providing AI-powered diagnosis and troubleshooting using Retrieval-Augmented Generation (RAG).
 
